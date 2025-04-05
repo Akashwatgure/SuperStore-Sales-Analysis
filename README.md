@@ -43,7 +43,7 @@ Visualizes company-wide sales and profit performance with time-based filters.
 - Category and Order Priority slicers
 - Interactive charts for sales, profit, and trend comparisons
 
-![Sales Dashboard](https://user-images.githubusercontent.com/103464406/218605834-500b9b47-8873-4b4a-94ae-ed86486e3194.png)
+![Sales Dashboard](https://github.com/Akashwatgure/SuperStore-Sales-Analysis/blob/main/Sales%20-%20Superstore.png)
 
 ---
 
