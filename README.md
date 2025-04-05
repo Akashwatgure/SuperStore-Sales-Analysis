@@ -61,7 +61,7 @@ Breaks down performance by product categories, quantities, and discount trends.
 - Understand high-volume product lines
 - Drill into regional product trends
 
-![Product Dashboard](https://user-images.githubusercontent.com/103464406/218607609-fcf817e6-17a1-4b03-af50-00bbe806ad79.png)
+![Product Dashboard](https://github.com/Akashwatgure/SuperStore-Sales-Analysis/blob/main/Product%20-%20Superstore.png)
 
 ---
 
