@@ -78,7 +78,7 @@ Highlights shipping preferences and cost patterns across regions and order prior
 - **Cost Trends:**
   - APAC had the highest shipping costs, followed by EU and US
 
-![Shipping Dashboard](https://user-images.githubusercontent.com/103464406/218608777-892f74b8-ee20-4c22-8c2f-953638930e54.png)
+![Shipping Dashboard](https://github.com/Akashwatgure/SuperStore-Sales-Analysis/blob/main/Shipping%20-%20Superstore.png)
 
 ---
 
