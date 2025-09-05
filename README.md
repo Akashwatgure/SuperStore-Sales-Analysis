@@ -43,7 +43,8 @@ Visualizes company-wide sales and profit performance with time-based filters.
 - Category and Order Priority slicers
 - Interactive charts for sales, profit, and trend comparisons
 
-![Sales Dashboard](https://github.com/Akashwatgure/SuperStore-Sales-Analysis/blob/main/Sales%20-%20Superstore.png)
+![Sales Dashboard](<img width="1380" height="747" alt="image" src="https://github.com/user-attachments/assets/351cf98f-0591-43cc-9d3e-83a822b1e8d2" />
+)
 
 ---
 
@@ -61,7 +62,8 @@ Breaks down performance by product categories, quantities, and discount trends.
 - Understand high-volume product lines
 - Drill into regional product trends
 
-![Product Dashboard](https://github.com/Akashwatgure/SuperStore-Sales-Analysis/blob/main/Product%20-%20Superstore.png)
+![Product Dashboard](<img width="1387" height="753" alt="image" src="https://github.com/user-attachments/assets/777ac240-833c-4e78-a16d-f62fc94c6460" />
+)
 
 ---
 
@@ -78,7 +80,8 @@ Highlights shipping preferences and cost patterns across regions and order prior
 - **Cost Trends:**
   - APAC had the highest shipping costs, followed by EU and US
 
-![Shipping Dashboard](https://github.com/Akashwatgure/SuperStore-Sales-Analysis/blob/main/Shipping%20-%20Superstore.png)
+![Shipping Dashboard](![Uploading image.png…]()
+)
 
 ---
 
