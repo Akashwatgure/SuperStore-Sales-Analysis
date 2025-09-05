@@ -43,8 +43,8 @@ Visualizes company-wide sales and profit performance with time-based filters.
 - Category and Order Priority slicers
 - Interactive charts for sales, profit, and trend comparisons
 
-![Sales Dashboard](<img width="1380" height="747" alt="image" src="https://github.com/user-attachments/assets/351cf98f-0591-43cc-9d3e-83a822b1e8d2" />
-)
+![Sales Dashboard]<img width="1383" height="752" alt="image" src="https://github.com/user-attachments/assets/5d2431f1-df05-4d37-891b-1b6fcd082685" />
+
 
 ---
 
@@ -62,8 +62,8 @@ Breaks down performance by product categories, quantities, and discount trends.
 - Understand high-volume product lines
 - Drill into regional product trends
 
-![Product Dashboard](<img width="1387" height="753" alt="image" src="https://github.com/user-attachments/assets/777ac240-833c-4e78-a16d-f62fc94c6460" />
-)
+![Product Dashboard]<img width="1382" height="746" alt="image" src="https://github.com/user-attachments/assets/2fdff4a6-38c0-4242-b114-9eac9dd756ab" />
+
 
 ---
 
@@ -80,8 +80,10 @@ Highlights shipping preferences and cost patterns across regions and order prior
 - **Cost Trends:**
   - APAC had the highest shipping costs, followed by EU and US
 
-![Shipping Dashboard](![Uploading image.png…]()
-)
+   
+
+![Shipping Dashboard]<img width="1381" height="749" alt="image" src="https://github.com/user-attachments/assets/114d0a46-064a-4f62-9497-3e00afc5f46a" />
+
 
 ---
 
